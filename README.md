@@ -23,7 +23,7 @@ A comprehensive real-time chat application powered by Ollama (local LLM), Socket
 
 1. **Clone and navigate to the project:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/shyamkaarthikeyan/Dockerized-chat-application.git
    cd chat-app
    ```
 
